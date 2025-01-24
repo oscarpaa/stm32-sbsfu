@@ -1,0 +1,84 @@
+ prepareimage.exe
+Magic: b'SFU1'!!
+Magic: b'SFU1'!!
+number of segment :6
+0x8010a00
+0x8015638
+0x8015648
+0x80156b8
+0x80156c0
+number of segment :7
+0x80000c0
+0x8004290
+0x8006778
+0x8006b10
+0x800e988
+0x800ea08
+Merging
+SBSFU Base = 0x8000000
+Writing header = 0x8010000
+APPLI Base = 0x8010800
+Writing to ..//../Binary/SBSFU_UserApp.bin 87744
+ prepareimage.exe
+Magic: b'SFU1'!!
+Magic: b'SFU1'!!
+number of segment :6
+0x8048a00
+0x804d958
+0x804d968
+0x804d9d8
+0x804d9e0
+number of segment :7
+0x80000c0
+0x80043b0
+0x8006778
+0x8006a10
+0x800f810
+0x800f8b8
+Merging
+SBSFU Base = 0x8000000
+Writing header = 0x8048000
+APPLI Base = 0x8048800
+Writing to ..//../Binary/SBSFU_UserApp.bin 317920
+ prepareimage.exe
+Magic: b'SFU1'!!
+Magic: b'SFU1'!!
+number of segment :6
+0x8010a00
+0x8015958
+0x8015968
+0x80159d8
+0x80159e0
+number of segment :7
+0x80000c0
+0x80043b0
+0x8006778
+0x8006a10
+0x800f810
+0x800f8b8
+Merging
+SBSFU Base = 0x8000000
+Writing header = 0x8010000
+APPLI Base = 0x8010800
+Writing to ..//../Binary/SBSFU_UserApp.bin 88544
+ prepareimage.exe
+Magic: b'SFU1'!!
+Magic: b'SFU1'!!
+number of segment :6
+0x8010a00
+0x8015958
+0x8015968
+0x80159d8
+0x80159e0
+number of segment :7
+0x80000c0
+0x80043b0
+0x8006778
+0x8006a10
+0x800f810
+0x800f8b8
+Merging
+SBSFU Base = 0x8000000
+Writing header = 0x8010000
+APPLI Base = 0x8010800
+Writing to ..//../Binary/SBSFU_UserApp.bin 88544
